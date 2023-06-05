@@ -1,5 +1,0 @@
-dtavm = {
-    config: {
-        proxy: true
-    }
-}

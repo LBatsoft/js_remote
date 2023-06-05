@@ -1,1 +1,0 @@
-window = dtavm.proxy(window, "Window")
